@@ -1,0 +1,12 @@
+/home/jerson/Escritorio/pruebawebapiddd/2. Application/2.2 Core/Application.Core/bin/Debug/netcoreapp3.1/Application.Core.deps.json
+/home/jerson/Escritorio/pruebawebapiddd/2. Application/2.2 Core/Application.Core/bin/Debug/netcoreapp3.1/Application.Core.dll
+/home/jerson/Escritorio/pruebawebapiddd/2. Application/2.2 Core/Application.Core/bin/Debug/netcoreapp3.1/Application.Core.pdb
+/home/jerson/Escritorio/pruebawebapiddd/2. Application/2.2 Core/Application.Core/bin/Debug/netcoreapp3.1/Domain.Core.dll
+/home/jerson/Escritorio/pruebawebapiddd/2. Application/2.2 Core/Application.Core/bin/Debug/netcoreapp3.1/Domain.Core.pdb
+/home/jerson/Escritorio/pruebawebapiddd/2. Application/2.2 Core/Application.Core/obj/Debug/netcoreapp3.1/Application.Core.csprojAssemblyReference.cache
+/home/jerson/Escritorio/pruebawebapiddd/2. Application/2.2 Core/Application.Core/obj/Debug/netcoreapp3.1/Application.Core.AssemblyInfoInputs.cache
+/home/jerson/Escritorio/pruebawebapiddd/2. Application/2.2 Core/Application.Core/obj/Debug/netcoreapp3.1/Application.Core.AssemblyInfo.cs
+/home/jerson/Escritorio/pruebawebapiddd/2. Application/2.2 Core/Application.Core/obj/Debug/netcoreapp3.1/Application.Core.csproj.CoreCompileInputs.cache
+/home/jerson/Escritorio/pruebawebapiddd/2. Application/2.2 Core/Application.Core/obj/Debug/netcoreapp3.1/Application.Core.csproj.CopyComplete
+/home/jerson/Escritorio/pruebawebapiddd/2. Application/2.2 Core/Application.Core/obj/Debug/netcoreapp3.1/Application.Core.dll
+/home/jerson/Escritorio/pruebawebapiddd/2. Application/2.2 Core/Application.Core/obj/Debug/netcoreapp3.1/Application.Core.pdb

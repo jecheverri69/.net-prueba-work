@@ -1,0 +1,14 @@
+/home/jerson/Escritorio/pruebawebapiddd/2. Application/2.1 Contracts/Application.Contracts/bin/Debug/netcoreapp3.1/Application.Contracts.deps.json
+/home/jerson/Escritorio/pruebawebapiddd/2. Application/2.1 Contracts/Application.Contracts/bin/Debug/netcoreapp3.1/Application.Contracts.dll
+/home/jerson/Escritorio/pruebawebapiddd/2. Application/2.1 Contracts/Application.Contracts/bin/Debug/netcoreapp3.1/Application.Contracts.pdb
+/home/jerson/Escritorio/pruebawebapiddd/2. Application/2.1 Contracts/Application.Contracts/bin/Debug/netcoreapp3.1/Application.Core.dll
+/home/jerson/Escritorio/pruebawebapiddd/2. Application/2.1 Contracts/Application.Contracts/bin/Debug/netcoreapp3.1/Domain.Core.dll
+/home/jerson/Escritorio/pruebawebapiddd/2. Application/2.1 Contracts/Application.Contracts/bin/Debug/netcoreapp3.1/Application.Core.pdb
+/home/jerson/Escritorio/pruebawebapiddd/2. Application/2.1 Contracts/Application.Contracts/bin/Debug/netcoreapp3.1/Domain.Core.pdb
+/home/jerson/Escritorio/pruebawebapiddd/2. Application/2.1 Contracts/Application.Contracts/obj/Debug/netcoreapp3.1/Application.Contracts.csprojAssemblyReference.cache
+/home/jerson/Escritorio/pruebawebapiddd/2. Application/2.1 Contracts/Application.Contracts/obj/Debug/netcoreapp3.1/Application.Contracts.AssemblyInfoInputs.cache
+/home/jerson/Escritorio/pruebawebapiddd/2. Application/2.1 Contracts/Application.Contracts/obj/Debug/netcoreapp3.1/Application.Contracts.AssemblyInfo.cs
+/home/jerson/Escritorio/pruebawebapiddd/2. Application/2.1 Contracts/Application.Contracts/obj/Debug/netcoreapp3.1/Application.Contracts.csproj.CoreCompileInputs.cache
+/home/jerson/Escritorio/pruebawebapiddd/2. Application/2.1 Contracts/Application.Contracts/obj/Debug/netcoreapp3.1/Application.Contracts.csproj.CopyComplete
+/home/jerson/Escritorio/pruebawebapiddd/2. Application/2.1 Contracts/Application.Contracts/obj/Debug/netcoreapp3.1/Application.Contracts.dll
+/home/jerson/Escritorio/pruebawebapiddd/2. Application/2.1 Contracts/Application.Contracts/obj/Debug/netcoreapp3.1/Application.Contracts.pdb

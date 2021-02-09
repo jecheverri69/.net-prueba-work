@@ -1,0 +1,9 @@
+/home/jerson/Escritorio/pruebawebapiddd/3. Domain/3.2 Domain.Core/Domain.Core/bin/Debug/netcoreapp3.1/Domain.Core.deps.json
+/home/jerson/Escritorio/pruebawebapiddd/3. Domain/3.2 Domain.Core/Domain.Core/bin/Debug/netcoreapp3.1/Domain.Core.dll
+/home/jerson/Escritorio/pruebawebapiddd/3. Domain/3.2 Domain.Core/Domain.Core/bin/Debug/netcoreapp3.1/Domain.Core.pdb
+/home/jerson/Escritorio/pruebawebapiddd/3. Domain/3.2 Domain.Core/Domain.Core/obj/Debug/netcoreapp3.1/Domain.Core.csprojAssemblyReference.cache
+/home/jerson/Escritorio/pruebawebapiddd/3. Domain/3.2 Domain.Core/Domain.Core/obj/Debug/netcoreapp3.1/Domain.Core.AssemblyInfoInputs.cache
+/home/jerson/Escritorio/pruebawebapiddd/3. Domain/3.2 Domain.Core/Domain.Core/obj/Debug/netcoreapp3.1/Domain.Core.AssemblyInfo.cs
+/home/jerson/Escritorio/pruebawebapiddd/3. Domain/3.2 Domain.Core/Domain.Core/obj/Debug/netcoreapp3.1/Domain.Core.csproj.CoreCompileInputs.cache
+/home/jerson/Escritorio/pruebawebapiddd/3. Domain/3.2 Domain.Core/Domain.Core/obj/Debug/netcoreapp3.1/Domain.Core.dll
+/home/jerson/Escritorio/pruebawebapiddd/3. Domain/3.2 Domain.Core/Domain.Core/obj/Debug/netcoreapp3.1/Domain.Core.pdb

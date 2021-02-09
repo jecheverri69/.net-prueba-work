@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/jerson/Escritorio/pruebawebapiddd/3. Domain/3.1 Domain.Contracts/Domain.Contracts/Domain.Contracts.csproj": {}
+  },
+  "projects": {
+    "/home/jerson/Escritorio/pruebawebapiddd/3. Domain/3.1 Domain.Contracts/Domain.Contracts/Domain.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jerson/Escritorio/pruebawebapiddd/3. Domain/3.1 Domain.Contracts/Domain.Contracts/Domain.Contracts.csproj",
+        "projectName": "Domain.Contracts",
+        "projectPath": "/home/jerson/Escritorio/pruebawebapiddd/3. Domain/3.1 Domain.Contracts/Domain.Contracts/Domain.Contracts.csproj",
+        "packagesPath": "/home/jerson/.nuget/packages/",
+        "outputPath": "/home/jerson/Escritorio/pruebawebapiddd/3. Domain/3.1 Domain.Contracts/Domain.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/jerson/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/jerson/Escritorio/pruebawebapiddd/3. Domain/3.2 Domain.Core/Domain.Core/Domain.Core.csproj": {
+                "projectPath": "/home/jerson/Escritorio/pruebawebapiddd/3. Domain/3.2 Domain.Core/Domain.Core/Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.405/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/jerson/Escritorio/pruebawebapiddd/3. Domain/3.2 Domain.Core/Domain.Core/Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jerson/Escritorio/pruebawebapiddd/3. Domain/3.2 Domain.Core/Domain.Core/Domain.Core.csproj",
+        "projectName": "Domain.Core",
+        "projectPath": "/home/jerson/Escritorio/pruebawebapiddd/3. Domain/3.2 Domain.Core/Domain.Core/Domain.Core.csproj",
+        "packagesPath": "/home/jerson/.nuget/packages/",
+        "outputPath": "/home/jerson/Escritorio/pruebawebapiddd/3. Domain/3.2 Domain.Core/Domain.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/jerson/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.Extensions.Configuration.json": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.405/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
